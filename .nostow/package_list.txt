@@ -1,0 +1,10 @@
+# this should be ignored
+#this should be ignored
+
+# so should empty lines both above and below
+
+# the line below should be interpreted as a command to check instillation for and the package to install
+alacritty
+
+# the line below should be interpreted as a command to check instillation for (i=1) and the package to install (i=0)
+neovim nvim
